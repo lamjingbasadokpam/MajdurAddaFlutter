@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "900810841507",
+    "project_id": "majdurdemo",
+    "storage_bucket": "majdurdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900810841507:android:4075b0e124ef632e534e16",
+        "android_client_info": {
+          "package_name": "com.example.majduradda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900810841507-81fugpu382k33neqskthbjm3b5aecekf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majduradda",
+            "certificate_hash": "57bebed22ecc3c3f2f680b19058e6f4eb521128c"
+          }
+        },
+        {
+          "client_id": "900810841507-3338nu3rbfa663g6u35nu874v3ee4l1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO06UpLf67k9nHXReUCbT_lDs-3OQz42s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900810841507-3338nu3rbfa663g6u35nu874v3ee4l1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900810841507-2ptn0lcq80nm1197k4jjtan691kacp3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majduradda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
